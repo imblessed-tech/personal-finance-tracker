@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python packaging & distribution
+build/
+dist/
+*.egg-info/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases and run outputs
+output/
